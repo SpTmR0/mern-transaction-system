@@ -1,2 +1,2 @@
-# Zluri
-Onboarding Project
+# Transaction Management System
+MERN-Stack
